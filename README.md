@@ -1,8 +1,8 @@
-#Duan Le's Resume
+# Duan Le's Resume
 
 [https://duanvnc.github.io](https://duanvnc.github.io)
 
-#Usage
+# Usage
 ```
 $ gem install bundler
 $ bundle install
