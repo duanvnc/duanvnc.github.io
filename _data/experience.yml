@@ -52,8 +52,8 @@
       - Shopping web applications: http://shopping.yahoo.co.jp
       - myThings IoT APIs for mobile applications: https://mythings.yahoo.co.jp
       - Maps Delivery, Maps Car Navigation APIs for mobile apps: 
-        - Android: https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map&hl=en
-        - iOS: https://itunes.apple.com/jp/app/yahoo!-tu-yu-yunno-dongkigawakaru/id289567151?mt=8
+        + Android: https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map&hl=en
+        + iOS: https://itunes.apple.com/jp/app/yahoo!-tu-yu-yunno-dongkigawakaru/id289567151?mt=8
       - Payment Taxes and Donation web application for Japan government, using CakePHP 2.x and FuelPHP 1.7, with MySQL and Oracle DB: http://koukin.yahoo.co.jp
 - company: Evolable Asia
   link: www.evolableasia.com

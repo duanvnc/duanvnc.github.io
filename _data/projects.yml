@@ -6,6 +6,8 @@
 
     Creating APIs for web apps & mobile applications: iOS & Android
 
+    Info: https://www.wewumbo.io/
+
 - name: WE Services by Wumbo
   quote: >
     Services using for the Resident can book housekeeping, personal trainer, food & drink, and the meeting room.
@@ -16,6 +18,8 @@
 
     WE Services is already on the iOS, Android and Web application.
 
+    Info: https://www.wewumbo.io/
+
 - name: LemonSwan
   quote: >
     Dating platform for the Europe market
@@ -24,18 +28,22 @@
 
     LemonSwan platform can automatically suggest the matching results.
 
+    Info: https://www.lemonswan.de/
+
 - name: Yahoo! Japan Shopping
   quote: >
     A shopping web applications.
   description: | # this will include new lines to allow paragraphs
     I participated maintenance the E-Commerce website system for Yahoo! Japan companies.
 
+    Info: https://shopping.yahoo.co.jp/
 - name: myThings
   quote: >
     The IoT application using for smart home
   description: | # this will include new lines to allow paragraphs
     I have been built the APIs for IoT integration devices of smart home in the Yahoo! Japan.
 
+    Info: https://mythings.yahoo.co.jp/
 - name: Maps Delivery
   quote: >
     The Car navigation and devivery system.
@@ -44,12 +52,15 @@
 
     The delivery system using the Elastichsearch to optimize the search engine.
 
+    Info:
+      - Android: https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map&hl=en
+      - iOS: https://itunes.apple.com/jp/app/yahoo!-tu-yu-yunno-dongkigawakaru/id289567151?mt=8
 - name: Koukin Tax & Donation
   quote: >
     Taxes management
   description: | # this will include new lines to allow paragraphs
     Payment Taxes and Donation web application for Japan government
-    
 
+    Info: https://koukin.yahoo.co.jp
 
 
