@@ -3,7 +3,7 @@
   quote: >
     WE is a resident facing, integrated Building Management platform that redefines the way buildings are managed and operated. WE shifts the focus from assets to people.
   description: | # this will include new lines to allow paragraphs
-    I have been built CRM/Smart Home/Social Networking/Booking/Delivery Services for Building Manager/ Residences/ Providers using the last technologies: PHP7, NodeJS, ReactJS, SailsJS, HTML5, CSS4, MySQL, Elastichsearch, MongoDB and AWS Stacks.   
+    I have been built CRM/Smart Home/Social Networking/Booking/Delivery Services for Building Manager/ Residences/ Providers using the last technologies: PHP7, NodeJS, ReactJS, SailsJS, HTML5, CSS4, MySQL, Elastichsearch, MongoDB and AWS Stacks.
 
     Creating APIs for web apps & mobile applications: iOS & Android
 
@@ -56,14 +56,14 @@
     The delivery system using the Elastichsearch to optimize the search engine.
 
     Info: [map.yahoo.co.jp](https://map.yahoo.co.jp/)
-      - Android: https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map&hl=en
-      - iOS: https://itunes.apple.com/jp/app/yahoo!-tu-yu-yunno-dongkigawakaru/id289567151?mt=8
+      * Android: https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map&hl=en
+      * iOS: https://itunes.apple.com/jp/app/yahoo!-tu-yu-yunno-dongkigawakaru/id289567151?mt=8
 - name: Koukin Tax & Donation
   link: koukin.yahoo.co.jp
   quote: >
     Taxes management
   description: | # this will include new lines to allow paragraphs
-    Payment Taxes and Donation web application for Japan government
+    Payment Taxes and Donation web application for Japan government.
 
     Info: [koukin.yahoo.co.jp](https://koukin.yahoo.co.jp)
 
