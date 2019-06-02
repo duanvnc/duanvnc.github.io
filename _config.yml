@@ -39,11 +39,11 @@ about_content: | # this will include new lines to allow paragraphs
     - Development Tools: <mark>Vagrant</mark>, <mark>Docker</mark>, <mark>Github</mark>, <mark>Jenkins</mark>, <mark>Ansible</mark>
     - OS: <mark>Linux</mark>, <mark>Unix</mark>, <mark>Windows</mark>, <mark>MacOS</mark>
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
 # experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
 
 # Education Section
 # educaton_title: Education
