@@ -1,48 +1,110 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+- company: Wumbo Technologies
+  link: www.wewumbo.io
+  job_title: Technical Lead
+  dates: April 2018 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   My responsibilities are built the team process (Agile Scrum), restructure/rework technical teams, resources management & recruitment.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+    * Production:
+      - I have been built CRM/Smart Home/Social Networking/Booking/Delivery Services for Building Manager/ Residences/ Providers using the last technologies.
+
+    * Project management:
+      - My responsibilities are built the team process (Agile Scrum), restructure/rework technical teams, resources management.
+      - Recruitment: plan to interview and hire the talents to the company.
+      - Design JIRA workflows matching with team's situations.
+      - Atlassian Confluence documentation for the Agile process, requirements, technical documents, guidelines details, and testing documents.
+
+    * Training & Coaching:
+      - Technical leadership, establish the process for quality, technical spikes, and delivery management.
+      - Training & coaching all team positions: DevOps/Designer/QA & QC/Backend/Frontend/Mobile with more 27 members.
+
+    * Development:
+      - DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis,  ECS, ECR,  IoT...)
+      - Architecture: Ubuntu/CentOS/Amazon Linux, LEMP PHP7, NodeJS, ReactJS/Redux Saga, SailsJS for web notification, Rocket Chat for chatting feature of web/mobile apps, Firebase mobile notification.
+      - Databases: MySQL, MongoDB, Elastichsearch 5.x, DynamoDB, Redis cached.
+      - Tools: Vagrant, Docker, Github, Jenkins, Ansible
+- company: NFQ Asia
+  link: www.nfq.asia
+  job_title: Technical Lead
+  dates: February 2017 - April 2018
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Startup a new dating platform for the Europe market.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+    I have been built Dating Platforms using the last technologies: AWS, Restful APIs, Symfony 3, PHP7, Elasticsearch 5.x, Redis cache...
+
+    I have been working on Symfony 3.x, ReactJS/Redux, AWS (EC2, RDS, SQS, S3 Bucket, Elasticsearch), LEMP PHP7, Elasticsearch 2.x/5.x with ONGR.io bundles. And use Wordpress Restful APIs to manage blogs content. 
+
+    Agile processing with SCRUM team.
+- company: Techbase Vietnam
+  link: www.techbasevn.com
+  job_title: Senior PHP & Lead Developer
+  dates: August 2015 - February 2017
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Solving the problems of maintenance projects & build new projects. 
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+    I have been working on CakePHP 2.x, FuelPHP 1.x, Slim 3.x, Symfony 2.x frameworks and LAMP, using coding standard like PSR, programming productions for our parent company (Yahoo! Japan), included many services: Shopping, Maps, Delivery Maps, Tracking Users data, Payment, Internet of Things (IoT)...
+
+    I also analytic projects and create document details design (specification, sequence diagram, workflows chart, design database diagram).
+
+    I have been working on Agile processing with SCRUM team and implement test cases, automation testing...
+
+    Some projects I had been joined:
+     - Shopping web applications: http://shopping.yahoo.co.jp
+     - myThings IoT APIs for mobile applications: https://mythings.yahoo.co.jp
+     - Maps Delivery, Maps Car Navigation APIs for mobile apps: 
+      + Android: https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map&hl=en
+      + iOS: https://itunes.apple.com/jp/app/yahoo!-tu-yu-yunno-dongkigawakaru/id289567151?mt=8
+     - Payment Taxes and Donation web application for Japan government, using CakePHP 2.x and FuelPHP 1.7, with MySQL and Oracle DB: http://koukin.yahoo.co.jp
+- company: Evolable Asia
+  link: www.evolableasia.com
+  job_title: Senior PHP Developer
+  dates: April 2014 - August 2015
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Build new modules for Yahoo! Japan Shopping and maintain the project.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+    I have programming for projects of Yahoo! Japan Companies in Japanese.
+
+    The applications I have made the Yahoo! Japan: Writing web apps/webservices for the PC, Tablet, Smartphone and Mobile phone.
+
+    Working on CakePHP 2.x framework for shopping frontend, backend, APIs and tracking user experiences using Yahoo JP's Javascript library, include project:
+     - http://shopping.yahoo.co.jp
+
+    Webservices for Android and iOS applications:
+    - https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yshopping&hl=ja
+    - https://itunes.apple.com/jp/app/yahoo!shoppingu-apurideo-dede/id446016180?mt=8
+- company: Sunrise Software Solutions (S3Corp)
+  link: s3corp.com.vn
+  job_title: Web Developer
+  dates: June 2011 - April 2014
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Startup a new Travel website, build the APIs for mobile apps.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+    I had been working on Symfony 2.x Symfony 1.4 frameworks with Doctrine/ORM, included the projects:
+
+    - http://goodizz.com/
+    - http://travel.insing.com/
+    - http://superdeals.insing.com/
+    - http://www.changelab23.com/
+    - http://virallotto.com/
+    - http://www.growvc.com/
+
+    And wrote APIs for the following sites:
+    - http://superdeals.insing.com/
+    - http://www.hungrygowhere.com/
+
+    Wordpress CMS project: 
+    - http://www.businesseventstokyo.org
+
+    Drupal 7 CMS project: 
+    - https://www.modelkarma.com/
+
+    PitchPartner project:
+    - http://www.pitchpartner.com/
+- company: K&G Technology
+  link: www.kng.vn
+  job_title: Web Developer
+  dates: November 2010 - June 2011
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Maintain the e-commerce website.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    I participated maintenance the eStore system: http://estore.co.jp/
