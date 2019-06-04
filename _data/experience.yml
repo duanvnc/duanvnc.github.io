@@ -3,10 +3,10 @@
   job_title: Technical Lead
   dates: April 2018 - Present
   quote: >
-    My responsibilities are built the team process (Agile Scrum), restructure/rework technical teams, resources management & recruitment.
+    I have been building the technical architectures, review source code, delivery management and coaching development teams.
   description: | # this will include new lines to allow paragraphs
     Production:
-      * I have been built CRM, Smart Home, Social Networking, Booking, Delivery Services for Building Manager/Residences/Providers using the last technologies.
+      * I have been built CRM, Building & Resident management, Social Networking, Booking, Delivery Services, Chatting using the last technologies.
     
     Project management:
       * My responsibilities are built the team process (Agile Scrum), restructure/rework technical teams, resources management.
@@ -19,7 +19,7 @@
       * Training & coaching all team positions: DevOps/Designer/QA & QC/Backend/Frontend/Mobile with more 27 members.
 
     Development:
-      * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis,  ECS, ECR,  IoT...)
+      * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis, ECS, ECR,IoT...)
       * Architecture: Ubuntu/CentOS/Amazon Linux, LEMP PHP7, NodeJS, ReactJS/Redux Saga, SailsJS for web notification, Rocket Chat for chatting feature of web/mobile apps, Firebase mobile notification.
       * Databases: MySQL, MongoDB, Elastichsearch 5.x, DynamoDB, Redis cached.
       * Tools: Vagrant, Docker, Github, Jenkins, Ansible
