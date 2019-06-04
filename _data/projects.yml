@@ -67,4 +67,25 @@
 
     Info: [koukin.yahoo.co.jp](https://koukin.yahoo.co.jp)
 
+- name: Others
+  quote: >
+    Some previous projects
+  description: | # this will include new lines to allow paragraphs
+    Symfony 2.x & Symfony 1.4 frameworks with Doctrine/ORM, included the projects:
+      * http://goodizz.com/
+      * http://travel.insing.com/
+      * http://superdeals.insing.com/
+      * http://www.changelab23.com/
+      * http://virallotto.com/
+      * http://www.growvc.com/
+      * http://superdeals.insing.com/
+      * http://www.hungrygowhere.com/
 
+    Wordpress CMS project: 
+      * http://www.businesseventstokyo.org
+
+    Drupal 7 CMS project: 
+      * https://www.modelkarma.com/
+
+    PitchPartner project:
+      * http://www.pitchpartner.com/
