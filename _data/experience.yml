@@ -6,7 +6,7 @@
     I have built and restructured technical stacks, review source code, and delivery management.
   description: | # this will include new lines to allow paragraphs
     Production:
-      * I have been built CRM, Ecommerce (Stripe & Assembply payment gateway), Building & Resident management, Social Networking, Housekeeping, Delivery Services, Chatting using the last technologies.
+      * I have built CRM, Ecommerce (Stripe & Assembply payment gateway), Building & Resident management, Social Networking, Housekeeping, Delivery Services, Chatting using the last technologies.
       
     Development:
       * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis, ECS, ECR,IoT...)
@@ -23,7 +23,7 @@
     I have built the technical architectures/infrastructures/technical stacks, review source code, delivery management and coaching development teams.
   description: | # this will include new lines to allow paragraphs
     Production:
-      * I have been built CRM, Ecommerce (Assembply payment gateway), Building & Resident management, Social Networking, Booking, Delivery Services, Chatting using the last technologies.
+      * I have built CRM, Ecommerce (Assembply payment gateway), Building & Resident management, Social Networking, Booking, Delivery Services, Chatting using the last technologies.
     
     Development:
       * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis, ECS, ECR,IoT...)
@@ -48,7 +48,7 @@
   quote: >
     Startup a new dating platform for the Europe market.
   description: | # this will include new lines to allow paragraphs
-    I have been built Dating Platforms using the last technologies: AWS, Restful APIs, Symfony 3, PHP7, Elasticsearch 5.x, Redis cache...
+    I have built Dating Platforms using the last technologies: AWS, Restful APIs, Symfony 3, PHP7, Elasticsearch 5.x, Redis cache...
 
     I have been working on Symfony 3.x, ReactJS/Redux, AWS (EC2, RDS, SQS, S3 Bucket, Elasticsearch), LEMP PHP7, Elasticsearch 2.x/5.x with ONGR.io bundles. And use Wordpress Restful APIs to manage blogs content. 
 
