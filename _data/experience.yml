@@ -1,13 +1,36 @@
 - company: Wumbo Technologies
   link: www.wewumbo.io
   job_title: Technical Lead
-  dates: April 2018 - Present
+  dates: August 2018 - Present
   quote: >
-    I have been building the technical architectures, review source code, delivery management and coaching development teams.
+    I have built and restructured technical stacks, review source code, and delivery management.
   description: | # this will include new lines to allow paragraphs
     Production:
-      * I have been built CRM, Building & Resident management, Social Networking, Booking, Delivery Services, Chatting using the last technologies.
+      * I have been built CRM, Ecommerce (Stripe & Assembply payment gateway), Building & Resident management, Social Networking, Housekeeping, Delivery Services, Chatting using the last technologies.
+      
+    Development:
+      * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis, ECS, ECR,IoT...)
+      * Architecture: Ubuntu/CentOS/Amazon Linux, LEMP PHP7, Wordpress, NodeJS, ReactJS/Redux Saga, SailsJS for web notification, Rocket Chat for chatting feature of web/mobile apps, Firebase mobile notification.
+      * Databases: MySQL, MongoDB, Elastichsearch 5.x, DynamoDB, Redis cached.
+      * Tools: Vagrant, Docker, Github, Jenkins, Ansible, AWS Codebuild & CodePipelines
     
+
+- company: Wumbo Technologies
+  link: www.wewumbo.io
+  job_title: Project Lead
+  dates: April 2018 - August 2018
+  quote: >
+    I have built the technical architectures/infrastructures/technical stacks, review source code, delivery management and coaching development teams.
+  description: | # this will include new lines to allow paragraphs
+    Production:
+      * I have been built CRM, Ecommerce (Assembply payment gateway), Building & Resident management, Social Networking, Booking, Delivery Services, Chatting using the last technologies.
+    
+    Development:
+      * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis, ECS, ECR,IoT...)
+      * Architecture: Ubuntu/CentOS/Amazon Linux, LEMP PHP7, Wordpress, NodeJS, ReactJS/Redux Saga, SailsJS for web notification, Rocket Chat for chatting feature of web/mobile apps, Firebase mobile notification.
+      * Databases: MySQL, MongoDB, Elastichsearch 5.x, DynamoDB, Redis cached.
+      * Tools: Vagrant, Docker, Github, Jenkins, Ansible, AWS Codebuild & CodePipelines
+      
     Project management:
       * My responsibilities are built the team process (Agile Scrum), restructure/rework technical teams, resources management.
       * Recruitment: plan to interview and hire the talents to the company.
@@ -18,11 +41,6 @@
       * Technical leadership, establish the process for quality, technical spikes, and delivery management.
       * Training & coaching all team positions: DevOps/Designer/QA & QC/Backend/Frontend/Mobile with more 27 members.
 
-    Development:
-      * DevOps & Infrastructure: AWS (EC2, RDS, SQS, S3 Bucket, Lambda, Elasticsearch, ELK, Redis, ECS, ECR,IoT...)
-      * Architecture: Ubuntu/CentOS/Amazon Linux, LEMP PHP7, NodeJS, ReactJS/Redux Saga, SailsJS for web notification, Rocket Chat for chatting feature of web/mobile apps, Firebase mobile notification.
-      * Databases: MySQL, MongoDB, Elastichsearch 5.x, DynamoDB, Redis cached.
-      * Tools: Vagrant, Docker, Github, Jenkins, Ansible
 - company: NFQ Asia
   link: www.nfq.asia
   job_title: Technical Lead
